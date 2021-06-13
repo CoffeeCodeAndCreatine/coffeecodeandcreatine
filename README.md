@@ -69,7 +69,7 @@ I am a mixed bag of traits, I am about as high energy as you can get with a pass
 </a>   
 
 <!-- icons without padding -->
-[1.2]: https://raw.githubusercontent.com/CoffeeCodeAndCreatine/CoffeeCodeAndCreatine/master/internet_icon_small.png (github icon without padding)
+[1.2]: https://raw.githubusercontent.com/CoffeeCodeAndCreatine/CoffeeCodeAndCreatine/master/globe.png (github icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/CoffeeCodeAndCreatine/CoffeeCodeAndCreatine/master/linkedin-3-16.png (LinkedIn icon without padding)
 
