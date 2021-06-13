@@ -3,8 +3,6 @@
 I am a mixed bag of traits, I am about as high energy as you can get with a passion for solving problems, writing software, fitness, and teaching. I embrace all challenges both mental and physical and am at my best when I am in the thick of it solving problems and driving results.
 
 ## 💻 Find Me Online
-[![CoffeeCodeAndCreatine][1.2]][1] [CoffeeCodeAndCreatine][1]
-
 [![LinkedIn][3.2]][3] [LinkedIn][3]
  
 [![GitHub][2.2]][2] [Github][2]  
@@ -16,15 +14,25 @@ I am a mixed bag of traits, I am about as high energy as you can get with a pass
 
 ### Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=apachespark&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=powershell&logoColor=white&color=yellow)
 
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=lightgrey)
+### Frameworks
+![](https://img.shields.io/badge/Java-Spring-informational?style=flat&logo=spring&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Java-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Java-JAX_RS-informational?style=flat&logoColor=white&color=brightgreen)
+
+![](https://img.shields.io/badge/Python-Sanic-informational?style=flat&logo=sanic&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Python-Flask-informational?style=flat&logo=flask&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Python-Django-informational?style=flat&logo=django&logoColor=white&color=lightgrey)
+
+![](https://img.shields.io/badge/Javascript-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Javascript-Node-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Javascript-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
 
 ### Cloud Tools
 ![](https://img.shields.io/badge/AWS-EC2-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
@@ -40,11 +48,14 @@ I am a mixed bag of traits, I am about as high energy as you can get with a pass
 ![](https://img.shields.io/badge/GCP-FireBase-informational?style=flat&logo=googlecloud&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/GCP-IAM-informational?style=flat&logo=googlecloud&logoColor=white&color=yellow)
 
-### Data Stores
-![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=brightgreen)
+### Data
+![](https://img.shields.io/badge/Queue-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=yellow)
 
 
+### Build & Containers
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/CoffeeCodeAndCreatine/CoffeeCodeAndCreatine">
